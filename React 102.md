@@ -1,4 +1,4 @@
-##React 102
+## React 102
 
 #### 1- Create a new React App
 
